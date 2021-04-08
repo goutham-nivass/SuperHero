@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Hero Api</string>
+    <string name="dash">DashBoard</string>
+    <array name="filter">
+        <item>Above 50</item>
+        <item>Equal to 50</item>
+        <item>Below 50</item>
+    </array>
+</resources>
